@@ -584,7 +584,7 @@ table.deck-table tr:nth-child(even) td {{
                         <span class="pill pill-green">PILASTRO 01 • FOCUS</span>
                         <span style="font-size: 8.5px; font-weight: 700; color: #16a34a;">PASSWORD CLUB</span>
                     </div>
-                    <img src="{post5_b64}" style="width: 100%; height: 82px; object-fit: cover; object-position: top; border-radius: 5px; border: 1px solid #e2e8f0; margin-bottom: 6px;" alt="Vetrina con Password">
+                    <img src="{post4_b64}" style="width: 100%; height: 82px; object-fit: cover; object-position: top; border-radius: 5px; border: 1px solid #e2e8f0; margin-bottom: 6px;" alt="Vetrina con Password">
                     <div style="font-size: 11.5px; font-weight: 800; color: #0f172a; margin-bottom: 3px;">Vetrina Squadra con Password</div>
                     <p style="font-size: 8.5px; color: #475569; line-height: 1.35; margin: 0 0 6px 0;">
                         Ogni squadra ha una vetrina dedicata a sé dove accede con una <b>password riservata</b> e vede <b>solo le cose relative alla sua squadra</b>.
@@ -602,8 +602,8 @@ table.deck-table tr:nth-child(even) td {{
                         <span class="pill pill-blue">PILASTRO 02</span>
                         <span style="font-size: 8.5px; font-weight: 700; color: #0284c7;">ROTAZIONE 360°</span>
                     </div>
-                    <img src="{post2_b64}" style="width: 100%; height: 82px; object-fit: cover; object-position: top; border-radius: 5px; border: 1px solid #e2e8f0; margin-bottom: 6px;" alt="Configuratore 3D">
-                    <div style="font-size: 11.5px; font-weight: 800; color: #0f172a; margin-bottom: 3px;">Configuratore Maglia 3D a 360°</div>
+                    <img src="{post3_b64}" style="width: 100%; height: 82px; object-fit: cover; object-position: top; border-radius: 5px; border: 1px solid #e2e8f0; margin-bottom: 6px;" alt="Configuratore 3D">
+                    <div style="font-size: 11.5px; font-weight: 800; color: #0f172a; margin-bottom: 3px;">Simulatore Maglia 3D a 360°</div>
                     <p style="font-size: 8.5px; color: #475569; line-height: 1.35; margin: 0 0 6px 0;">
                         Sul sito `italsport-group.it` si sceglie modello, colori, colletto, numeri e sponsor e si vede la maglia 3D ruotare a 360° fronte e retro.
                     </p>
@@ -620,7 +620,7 @@ table.deck-table tr:nth-child(even) td {{
                         <span class="pill pill-gold">PILASTRO 03</span>
                         <span style="font-size: 8.5px; font-weight: 700; color: #d97706;">4 LIVELLI CARD</span>
                     </div>
-                    <img src="{card_real_b64}" style="width: 100%; height: 82px; object-fit: contain; background: #f8fafc; border-radius: 5px; border: 1px solid #e2e8f0; margin-bottom: 6px;" alt="Tessera Pro-Club">
+                    <img src="{post5_b64}" style="width: 100%; height: 82px; object-fit: cover; object-position: top; background: #f8fafc; border-radius: 5px; border: 1px solid #e2e8f0; margin-bottom: 6px;" alt="Tessera Pro-Club">
                     <div style="font-size: 11.5px; font-weight: 800; color: #0f172a; margin-bottom: 3px;">Tessera Ufficiale PRO-CLUB</div>
                     <p style="font-size: 8.5px; color: #475569; line-height: 1.35; margin: 0 0 6px 0;">
                         Articolata in 4 livelli (<b>Basic, Silver, Gold, Diamond</b>) fondati su Disponibilità, Servizio, Qualità e Continuità garantita nel tempo.
@@ -786,52 +786,52 @@ table.deck-table tr:nth-child(even) td {{
             <tbody>
                 <tr>
                     <td><b>#01</b></td>
-                    <td><b>Divise Custom & Qualità</b><br><span style="font-size: 7.5px; color: #64748b;">3 veri kit su manichino @italsportgroup</span></td>
+                    <td><b>Stampa DTF & Reparto Grafico</b><br><span style="font-size: 7.5px; color: #64748b;">store.italsport-group.it/it/servizi/post/6-stampa-dtf</span></td>
                     <td><span class="pill pill-blue">METÀ OTTOBRE</span></td>
-                    <td>30 anni di forniture sportive a Ciserano (BG): stampa, ricamo e capi fatti per durare ai lavaggi ripetuti.</td>
-                    <td><b>Passa in showroom</b> a Ciserano (Via Prov. Francesca 2H/I).</td>
+                    <td>Stampa DTF ad alta risoluzione su tessuti chiari e scuri già confezionati, morbida al tatto e resistente ai lavaggi.</td>
+                    <td><b>Scopri il laboratorio stampa</b> a Ciserano o su store.italsport-group.it.</td>
                 </tr>
                 <tr>
                     <td><b>#02</b></td>
-                    <td><b>Configuratore 3D a 360°</b><br><span style="font-size: 7.5px; color: #64748b;">Vera maglia 3D + schermata sito</span></td>
+                    <td><b>Sublimazione & Full Print</b><br><span style="font-size: 7.5px; color: #64748b;">store.italsport-group.it/it/servizi/post/4-stampa-sublimatica</span></td>
                     <td><span class="pill pill-green">FINE OTTOBRE</span></td>
-                    <td>Disegna la divisa in 3D su italsport-group.it: scegli colori, colletto, numeri e sponsor e girala a 360°.</td>
-                    <td><b>Clicca sul link in bio</b> e prova il Configuratore 3D.</td>
+                    <td>Stampa sublimatica 100% traspirante (non ostruisce i pori del poliestere) e Full Print all-over prima della confezione.</td>
+                    <td><b>Personalizza le divise gara</b> (linee Rodi e Athene Sublim).</td>
                 </tr>
                 <tr>
                     <td><b>#03</b></td>
-                    <td><b>Tessera PRO-CLUB</b><br><span style="font-size: 7.5px; color: #64748b;">Vera Card Pro-Club + 4 livelli</span></td>
-                    <td><span class="pill pill-gold">INIZIO NOV.</span></td>
-                    <td>Livelli Basic, Silver, Gold, Diamond: zero costi di magazzino per il club, listino riservato e continuità negli anni.</td>
-                    <td><b>Scrivici in DM o chiama</b> lo 035 4191221 per info Pro-Club.</td>
+                    <td><b>Simulatore 3D a 360°</b><br><span style="font-size: 7.5px; color: #64748b;">italsport-group.it/configuratore3d</span></td>
+                    <td><span class="pill pill-blue">INIZIO NOV.</span></td>
+                    <td>Crea la divisa nel Simulatore 3D scegliendo colori, colletto, numeri e sponsor e ruotala a 360° prima dell'ordine.</td>
+                    <td><b>Prova la rotazione 3D a 360°</b> e segui lo stato di produzione.</td>
                 </tr>
                 <tr>
                     <td><b>#04</b></td>
-                    <td><b>Continuità & Riassortimenti</b><br><span style="font-size: 7.5px; color: #64748b;">Griglia 9 veri capi linea club</span></td>
-                    <td><span class="pill pill-slate">METÀ NOV.</span></td>
-                    <td>Nuovo iscritto a metà stagione? Ritrova sempre la stessa linea (Tuta Rom, Scotland, Nepal, K-Way, Borsa).</td>
-                    <td><b>Affida a Italsport</b> la continuità della linea del tuo club.</td>
-                </tr>
-                <tr>
-                    <td><b>#05</b></td>
-                    <td><b>Vetrina con Password</b><br><span style="font-size: 7.5px; color: #64748b;">Login Password + veri capi squadra</span></td>
-                    <td><span class="pill pill-blue">FINE NOV.</span></td>
-                    <td>Ogni squadra accede con la sua password dedicata e vede SOLO i propri capi: trova sempre le stesse cose senza errori.</td>
+                    <td><b>Vetrina Dedicata Squadra</b><br><span style="font-size: 7.5px; color: #64748b;">store.italsport-group.it/it/158-clienti-my-italsport</span></td>
+                    <td><span class="pill pill-green">METÀ NOV.</span></td>
+                    <td>Vetrina online My Italsport protetta da password riservata: atleti e genitori vedono e ordinano solo i capi del club.</td>
                     <td><b>Richiedi l'attivazione</b> della vetrina con password per la tua squadra.</td>
                 </tr>
                 <tr>
+                    <td><b>#05</b></td>
+                    <td><b>Continuità & Tessera Pro-Club</b><br><span style="font-size: 7.5px; color: #64748b;">Basic, Silver, Gold, Diamond + Linea Club</span></td>
+                    <td><span class="pill pill-gold">FINE NOV.</span></td>
+                    <td>"Il tuo magazzino a Ciserano lo facciamo noi": continuità garantita negli anni (Tuta Rom, Scotland, Nepal, K-Way, Borsa).</td>
+                    <td><b>Attiva la Tessera Pro-Club</b> con listino bloccato e zero rimanenze.</td>
+                </tr>
+                <tr>
                     <td><b>#06</b></td>
-                    <td><b>Sul Campo con Voi</b><br><span style="font-size: 7.5px; color: #64748b;">Vera squadra con divise Italsport</span></td>
+                    <td><b>30 Anni, Linea Flame & Multi-Brand</b><br><span style="font-size: 7.5px; color: #64748b;">store.italsport-group.it/it/content/4-chi-siamo</span></td>
                     <td><span class="pill pill-purple">INIZIO DIC.</span></td>
-                    <td>Oltre 4.600 realtà tra società sportive, oratori, scuole e aziende vestite da Italsport a Ciserano e in Lombardia.</td>
-                    <td><b>Tagga @italsportgroup</b> nelle foto della tua squadra in campo.</td>
+                    <td>Oltre 4.600 realtà servite, i 5 pilastri Italsport, l'esclusiva Linea Flame e i migliori marchi (Erreà, Joma, Jako, Givova, Macron...).</td>
+                    <td><b>Un unico partner tecnico</b> per sport, oratori, scuole e aziende.</td>
                 </tr>
                 <tr>
                     <td><b>#07</b></td>
-                    <td><b>Showroom & Fine Anno</b><br><span style="font-size: 7.5px; color: #64748b;">Vera foto showroom Ciserano + felpe</span></td>
-                    <td><span class="pill pill-gold">METÀ/FINE DIC.</span></td>
-                    <td>Tute, felpe invernali, borse e idee regalo col logo della squadra per le feste di fine anno a Ciserano.</td>
-                    <td><b>Vieni a trovarci in negozio</b> a Ciserano per i regali del club.</td>
+                    <td><b>Auguri di Natale & Regali Club</b><br><span style="font-size: 7.5px; color: #64748b;">Buone Feste dal Team Italsport + Maglioni 360°</span></td>
+                    <td><span class="pill pill-gold">20 DICEMBRE</span></td>
+                    <td>Auguri di Buon Natale a tutte le società sportive e idee regalo personalizzate (maglioni custom 360°, felpe, sciarpe, zainetti).</td>
+                    <td><b>Passa in showroom a Ciserano</b> per i regali natalizi del tuo club.</td>
                 </tr>
             </tbody>
         </table>
@@ -854,8 +854,8 @@ table.deck-table tr:nth-child(even) td {{
             <img src="{logo_b64}" class="header-logo" alt="Italsport Logo">
             <div class="header-title-box">
                 <span class="category-tag">SCHEDE OPERATIVE POST (1/2)</span>
-                <h2 class="slide-title">Post 01, 02 e 03: Divise Custom, Configuratore 3D a 360° e Tessera Pro-Club</h2>
-                <p class="slide-subtitle">Visual realizzati esclusivamente con le vere foto di @italsportgroup e le grafiche ufficiali di italsport-group.it.</p>
+                <h2 class="slide-title">Post 01, 02 e 03: Stampa DTF, Sublimazione & Full Print, Simulatore 3D a 360°</h2>
+                <p class="slide-subtitle">Visual realizzati con le vere immagini dei servizi di store.italsport-group.it e @italsportgroup.</p>
             </div>
         </div>
         <div class="header-right">
@@ -869,12 +869,12 @@ table.deck-table tr:nth-child(even) td {{
             <div class="post-deck-card">
                 <img src="{post1_b64}" class="post-deck-img" alt="Post 01">
                 <div class="post-deck-body">
-                    <span class="pill pill-blue" style="align-self: flex-start;">POST 01 • CISERANO (BG)</span>
-                    <div class="post-deck-title">Divise Personalizzate Fatte per Durare</div>
+                    <span class="pill pill-blue" style="align-self: flex-start;">POST 01 • STAMPA DTF</span>
+                    <div class="post-deck-title">DTF: Colori che Durano, Dettagli che Contano</div>
                     <p class="post-deck-copy">
-                        <b>Copy:</b> «Da 30 anni vestiamo lo sport: dalla progettazione grafica alla personalizzazione con stampa e ricamo, realizziamo divise fatte per durare. Passa in showroom a Ciserano (Via Provinciale Francesca 2H/I).»
+                        <b>Copy:</b> «Nel nostro reparto grafico interno a Ciserano (BG) realizziamo stampe DTF ad altissima risoluzione su capi chiari e scuri già confezionati, morbide al tatto e resistenti ai lavaggi.»
                     </p>
-                    <div class="post-deck-tag">#italsportgroup #ciserano #bergamo #divisepersonalizzate</div>
+                    <div class="post-deck-tag">#stampadtf #dtfprinting #italsportgroup #ciserano</div>
                 </div>
             </div>
 
@@ -882,12 +882,12 @@ table.deck-table tr:nth-child(even) td {{
             <div class="post-deck-card">
                 <img src="{post2_b64}" class="post-deck-img" alt="Post 02">
                 <div class="post-deck-body">
-                    <span class="pill pill-green" style="align-self: flex-start;">POST 02 • CONFIGURATORE 3D</span>
-                    <div class="post-deck-title">Disegna la Divisa e Girala a 360°</div>
+                    <span class="pill pill-green" style="align-self: flex-start;">POST 02 • SUBLIMAZIONE & FULL PRINT</span>
+                    <div class="post-deck-title">Sublimazione 100% Traspirante & Full Print</div>
                     <p class="post-deck-copy">
-                        <b>Copy:</b> «Vuoi vedere come sarà la divisa della tua squadra prima di ordinarla? Con il Configuratore 3D su italsport-group.it scegli modello, colori, colletto e sponsor e ruoti la maglia a 360°!»
+                        <b>Copy:</b> «L'inchiostro entra nella fibra del poliestere senza ostruire i pori del tessuto: impercettibile al tatto, totalmente indelebile e stampato su tutta la superficie prima della confezione!»
                     </p>
-                    <div class="post-deck-tag">#configuratore3d #italsportgroup #divisesportive #ciserano</div>
+                    <div class="post-deck-tag">#sublimazione #fullprint #italsportgroup #divisepersonalizzate</div>
                 </div>
             </div>
 
@@ -895,19 +895,19 @@ table.deck-table tr:nth-child(even) td {{
             <div class="post-deck-card">
                 <img src="{post3_b64}" class="post-deck-img" alt="Post 03">
                 <div class="post-deck-body">
-                    <span class="pill pill-gold" style="align-self: flex-start;">POST 03 • TESSERA PRO-CLUB</span>
-                    <div class="post-deck-title">Card Pro-Club: Basic, Silver, Gold, Diamond</div>
+                    <span class="pill pill-blue" style="align-self: flex-start;">POST 03 • SIMULATORE 3D</span>
+                    <div class="post-deck-title">Crea la Divisa nel Simulatore 3D a 360°</div>
                     <p class="post-deck-copy">
-                        <b>Copy:</b> «Scopri la Tessera PRO-CLUB di Italsport: facciamo noi il magazzino a Ciserano per la tua società (zero anticipi e zero rimanenze), listino riservato, continuità negli anni e vetrina con password inclusa.»
+                        <b>Copy:</b> «Personalizza modello, colori societari, colletto, numeri e sponsor su italsport-group.it, ruota la divisa a 360° da ogni angolazione e segui lo stato di produzione!»
                     </p>
-                    <div class="post-deck-tag">#tesseraproclub #proclub #italsportgroup #societasportive</div>
+                    <div class="post-deck-tag">#simulatore3d #configuratore3d #italsportgroup #customkit</div>
                 </div>
             </div>
         </div>
 
         <div class="card" style="background: #f8fafc; padding: 7px 11px; margin-top: 2px;">
             <div style="font-size: 8.5px; color: #475569;">
-                <b>Zero Scritte Sovrapposte:</b> Ogni post separa nettamente l'area fotografica superiore (760px con le vere foto Italsport) dalla fascia tipografica inferiore su fondo bianco (320px) col logo ufficiale Italsport.
+                <b>Coerenza Tecnica Verificata su store.italsport-group.it:</b> I post 1, 2 e 3 mostrano le reali tecnologie produttive di Italsport (Stampa DTF, Stampa Sublimatica, Stampa Full Print All-Over, Reparto Grafico Interno e Configuratore 3D a 360°).
             </div>
         </div>
     </div>
@@ -929,8 +929,8 @@ table.deck-table tr:nth-child(even) td {{
             <img src="{logo_b64}" class="header-logo" alt="Italsport Logo">
             <div class="header-title-box">
                 <span class="category-tag">SCHEDE OPERATIVE POST (2/2)</span>
-                <h2 class="slide-title">Post 04, 05, 06 e 07: Continuità, Vetrina con Password, Campo e Showroom</h2>
-                <p class="slide-subtitle">Focus centrale sul Post 05 che mostra come ogni squadra accede con password e vede solo i propri capi.</p>
+                <h2 class="slide-title">Post 04, 05, 06 e 07: Vetrina Squadra, Continuità Pro-Club, Linea Flame e Natale</h2>
+                <p class="slide-subtitle">Dal progetto My Italsport a quanto emerso nell'incontro (continuità forniture, zero magazzino, 4.600+ realtà) fino agli auguri di Natale.</p>
             </div>
         </div>
         <div class="header-right">
@@ -944,12 +944,12 @@ table.deck-table tr:nth-child(even) td {{
             <div class="post-deck-card">
                 <img src="{post4_b64}" class="post-deck-img" alt="Post 04">
                 <div class="post-deck-body">
-                    <span class="pill pill-green" style="align-self: flex-start;">POST 04 • CONTINUITÀ</span>
-                    <div class="post-deck-title">Ritrova la Stessa Linea</div>
+                    <span class="pill pill-blue" style="align-self: flex-start;">POST 04 • MY ITALSPORT</span>
+                    <div class="post-deck-title">Vetrina Dedicata alla Squadra</div>
                     <p class="post-deck-copy">
-                        <b>Copy:</b> «Nuovo iscritto a metà stagione? Ritrovi sempre la stessa linea: Tuta Rom, Scotland, Nepal, K-Way e Borsa.»
+                        <b>Copy:</b> «Una Vetrina Online su store.italsport-group.it protetta da password riservata: atleti e genitori vedono solo i capi del club.»
                     </p>
-                    <div class="post-deck-tag">#continuità #riassortimenti</div>
+                    <div class="post-deck-tag">#myitalsport #vetrinasquadra</div>
                 </div>
             </div>
 
@@ -957,12 +957,12 @@ table.deck-table tr:nth-child(even) td {{
             <div class="post-deck-card">
                 <img src="{post5_b64}" class="post-deck-img" alt="Post 05">
                 <div class="post-deck-body">
-                    <span class="pill pill-blue" style="align-self: flex-start;">POST 05 • PASSWORD CLUB</span>
-                    <div class="post-deck-title">Vetrina con Password Squadra</div>
+                    <span class="pill pill-gold" style="align-self: flex-start;">POST 05 • PRO-CLUB & CONTINUITÀ</span>
+                    <div class="post-deck-title">Zero Magazzino & Continuità</div>
                     <p class="post-deck-copy">
-                        <b>Copy:</b> «Ogni squadra entra con la sua password e vede SOLO i propri capi: trova sempre le stesse cose nel tempo senza errori!»
+                        <b>Copy:</b> «Il tuo magazzino a Ciserano lo facciamo noi: continuità negli anni (Tuta Rom, Scotland, Nepal, K-Way) e Card Pro-Club.»
                     </p>
-                    <div class="post-deck-tag">#myitalsport #vetrinasquadra</div>
+                    <div class="post-deck-tag">#tesseraproclub #continuità</div>
                 </div>
             </div>
 
@@ -970,12 +970,12 @@ table.deck-table tr:nth-child(even) td {{
             <div class="post-deck-card">
                 <img src="{post6_b64}" class="post-deck-img" alt="Post 06">
                 <div class="post-deck-body">
-                    <span class="pill pill-purple" style="align-self: flex-start;">POST 06 • SUL CAMPO</span>
-                    <div class="post-deck-title">Oltre 4.600 Realtà Servite</div>
+                    <span class="pill pill-green" style="align-self: flex-start;">POST 06 • LINEA FLAME & BRAND</span>
+                    <div class="post-deck-title">30 Anni, 4.600+ Realtà & Flame</div>
                     <p class="post-deck-copy">
-                        <b>Copy:</b> «Oltre 4.600 realtà tra società sportive, oratori, scuole e aziende scelgono Italsport a Ciserano e in Lombardia.»
+                        <b>Copy:</b> «I 5 pilastri di Italsport: Forniture, Logistica, Identità, l'esclusiva Linea Flame e i migliori marchi Multi-Brand.»
                     </p>
-                    <div class="post-deck-tag">#sulcampoconvoi #italsportgroup</div>
+                    <div class="post-deck-tag">#lineaflame #multibrand #30anni</div>
                 </div>
             </div>
 
@@ -983,12 +983,12 @@ table.deck-table tr:nth-child(even) td {{
             <div class="post-deck-card">
                 <img src="{post7_b64}" class="post-deck-img" alt="Post 07">
                 <div class="post-deck-body">
-                    <span class="pill pill-gold" style="align-self: flex-start;">POST 07 • SHOWROOM BG</span>
-                    <div class="post-deck-title">Showroom Ciserano & Regali</div>
+                    <span class="pill pill-purple" style="align-self: flex-start;">POST 07 • AUGURI DI NATALE</span>
+                    <div class="post-deck-title">Buon Natale & Regali Club</div>
                     <p class="post-deck-copy">
-                        <b>Copy:</b> «Tute, felpe, borse e gadget col logo della tua squadra per le feste: passa in showroom a Ciserano (Via Prov. Francesca 2H/I).»
+                        <b>Copy:</b> «Buone Feste dal Team di Italsport! Programma i regali societari e i maglioni natalizi custom a 360° nel nostro showroom.»
                     </p>
-                    <div class="post-deck-tag">#showroomciserano #buonefeste</div>
+                    <div class="post-deck-tag">#buonnatale #italsportgroup</div>
                 </div>
             </div>
         </div>
@@ -1151,7 +1151,7 @@ table.deck-table tr:nth-child(even) td {{
                 <div class="card-white" style="padding: 12px 14px;">
                     <div style="font-size: 10px; font-weight: 800; color: #0f172a; margin-bottom: 5px;">COSA PUOI PROVARE NEL MOCKUP INTERATTIVO:</div>
                     <div style="display: flex; flex-direction: column; gap: 4px; font-size: 8.5px; color: #475569;">
-                        <div>• <b>Feed Instagram Realistico (@italsportgroup):</b> clicca sui post per mettere "Mi piace" (il numero aumenta), fai doppio clic per il cuore grande, scrivi commenti, salva i post e apri le Storie.</div>
+                        <div>• <b>Feed Instagram Realistico (@italsportgroup):</b> clicca sui post per mettere "Mi piace" (il numero aumenta), fai doppio clic per il cuore grande, sfoglia le slide dei caroselli, salva i post e apri le Storie.</div>
                         <div>• <b>Configuratore 3D + Video 360° Reale:</b> vedi sia la vera animazione a 360° della maglia 3D dal sito Italsport sia il simulatore interattivo per cambiare colori, pattern, colletto e sponsor.</div>
                         <div>• <b>Simulatore Vetrina Squadra con Password:</b> prova a cambiare squadra (<i>U.S.D. Brevianese</i>, <i>A.S.D. Gessate</i>, <i>Volley Ciserano</i>) o simula l'inserimento della password per vedere solo i capi di quella squadra!</div>
                     </div>
@@ -1316,34 +1316,34 @@ table.deck-table tr:nth-child(even) td {{
     <div class="slide-body">
         <div class="grid-4" style="margin-bottom: 4px;">
             <div class="card-white" style="border-top: 3.5px solid #0284c7; padding: 10px 12px;">
-                <span class="pill pill-blue">FASE 1 • OTTOBRE</span>
-                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Divise Custom & 3D 360°</div>
+                <span class="pill pill-blue">FASE 1 • METÀ OTTOBRE</span>
+                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Stampa DTF & Sublimazione</div>
                 <div style="font-size: 8px; color: #475569; line-height: 1.35;">
-                    Ottimizzazione bio `@italsportgroup`, uscita <b>Post #01</b> (Divise Custom a Ciserano) e <b>Post #02 + Reel</b> (Configuratore 3D con rotazione a 360°).
+                    Ottimizzazione bio `@italsportgroup`, <b>Post #01</b> (Stampa DTF & Reparto Grafico Ciserano) e <b>Post #02</b> (Stampa Sublimatica 100% traspirante & Full Print All-Over).
                 </div>
             </div>
 
-            <div class="card-white" style="border-top: 3.5px solid #f59e0b; padding: 10px 12px;">
-                <span class="pill pill-gold">FASE 2 • INIZIO NOV.</span>
-                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Tessera Pro-Club & Linea</div>
+            <div class="card-white" style="border-top: 3.5px solid #0284c7; padding: 10px 12px;">
+                <span class="pill pill-blue">FASE 2 • INIZIO NOV.</span>
+                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Simulatore 3D & Vetrina Club</div>
                 <div style="font-size: 8px; color: #475569; line-height: 1.35;">
-                    Pubblicazione <b>Post #03</b> (Tessera Pro-Club Basic, Silver, Gold, Diamond) e <b>Post #04</b> (Continuità e riassortimenti sulla linea club).
+                    <b>Post #03 + Reel 360°</b> (Simulatore 3D con rotazione della divisa a 360°) e <b>Post #04</b> (Vetrina My Italsport protetta da Password per ogni squadra).
                 </div>
             </div>
 
             <div class="card-white" style="border-top: 3.5px solid #10b981; padding: 10px 12px;">
                 <span class="pill pill-green">FASE 3 • FINE NOV.</span>
-                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Vetrina con Password</div>
+                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Pro-Club & Linea Flame</div>
                 <div style="font-size: 8px; color: #475569; line-height: 1.35;">
-                    Pubblicazione <b>Post #05</b> (Vetrina Squadra con Password su My Italsport) e <b>Post #06</b> (Oltre 4.600 realtà sul campo con Italsport).
+                    <b>Post #05</b> (Continuità negli anni, Zero Magazzino a Ciserano & Card Pro-Club) e <b>Post #06</b> (30 Anni di Storia, 4.600+ Realtà in CRM, Linea Flame & Multi-Brand).
                 </div>
             </div>
 
             <div class="card-white" style="border-top: 3.5px solid #8b5cf6; padding: 10px 12px;">
                 <span class="pill pill-purple">FASE 4 • DICEMBRE</span>
-                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Showroom & Natale</div>
+                <div style="font-size: 10.5px; font-weight: 800; color: #0f172a; margin: 3px 0 2px 0;">Auguri di Natale & Regali</div>
                 <div style="font-size: 8px; color: #475569; line-height: 1.35;">
-                    Pubblicazione <b>Post #07</b> (Showroom Ciserano, abbigliamento invernale, felpe e idee regalo col logo della squadra per le feste).
+                    <b>Post #07</b> (Auguri di Buon Natale dal Team Italsport, Showroom Ciserano, Maglioni Natalizi Custom a 360° e idee regalo per le squadre).
                 </div>
             </div>
         </div>

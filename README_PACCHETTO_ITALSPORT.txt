@@ -24,19 +24,19 @@ Dati Aziendali Verificati:
 [B] Instagram_Mockup_Italsport.html (Sito / Mockup Interattivo Completo)
     - Link Live su GitHub Pages: https://kingsalvo05.github.io/italsport-mockup/
     - Tab 1: Feed Instagram realistico @italsportgroup (clicca per aumentare i Like, doppio clic
-      con cuore animato, pubblica commenti, salva i post, guarda i Reel e le Storie a tutto schermo).
+      con cuore animato, sfoglia le slide dei caroselli, salva i post, guarda i Reel e le Storie a tutto schermo).
     - Tab 2: Configuratore 3D con vera animazione a 360° della maglia Italsport + simulatore live.
     - Tab 3: Demo interattiva "Vetrina Squadra con Password" (prova a entrare con la password di
       U.S.D. Brevianese, A.S.D. Gessate o Volley Ciserano per vedere solo i capi della squadra).
     - Tab 4: Tessera Pro-Club (Basic, Silver, Gold, Diamond).
 
-[C] I 7 Post Pronti (1080x1080px, con vere foto Italsport e zero scritte sovrapposte)
-    - img_post1_jersey.jpg       -> Post 01: Divise Custom su manichino a Ciserano (BG)
-    - img_post2_3d.jpg           -> Post 02: Configuratore 3D con vista fronte/retro a 360°
-    - img_post3_fidelity.jpg     -> Post 03: Vera Tessera Pro-Club (Basic, Silver, Gold, Diamond)
-    - img_post4_stack.jpg        -> Post 04: Continuità e riassortimenti (9 veri capi linea club)
-    - img_post5_portal.jpg       -> Post 05: Vetrina con Password riservata per ogni squadra
-    - img_post6_winter.jpg       -> Post 06: Sul campo con le divise Italsport (oltre 4.600 realtà)
-    - img_post7_celebration.jpg  -> Post 07: Showroom Ciserano, invernale e gadget fine anno
+[C] I 7 Post Pronti (1080x1080px, con vere foto store.italsport-group.it e @italsportgroup)
+    - img_post1_jersey.jpg       -> Post 01: Stampa DTF (Direct-to-Film) & Reparto Grafico Interno (+ img_post1_s2.jpg)
+    - img_post2_3d.jpg           -> Post 02: Stampa in Sublimazione 100% Traspirante & Full Print (+ img_post2_s2.jpg)
+    - img_post3_fidelity.jpg     -> Post 03: Simulatore / Configuratore 3D a 360° (+ img_post3_s2.jpg + rotazione live)
+    - img_post4_stack.jpg        -> Post 04: Vetrina Dedicata alla Squadra con Password - My Italsport (+ img_post4_s2.jpg)
+    - img_post5_portal.jpg       -> Post 05: Continuità negli Anni, Zero Magazzino & Tessera Pro-Club (+ img_post5_s2.jpg)
+    - img_post6_winter.jpg       -> Post 06: 30 Anni di Storia, 4.600+ Realtà, Linea Flame & Multi-Brand (+ img_post6_s2.jpg)
+    - img_post7_celebration.jpg  -> Post 07: Auguri di Natale & Regali Personalizzati per le Squadre (+ img_post7_s2.jpg)
     - configuratore3d_real.gif   -> Animazione 3D a 360° reale della maglia dal configuratore Italsport
 ================================================================================

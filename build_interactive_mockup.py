@@ -24,6 +24,14 @@ post5_b64 = get_base64_image("img_post5_portal.jpg")
 post6_b64 = get_base64_image("img_post6_winter.jpg")
 post7_b64 = get_base64_image("img_post7_celebration.jpg")
 
+post1_s2_b64 = get_base64_image("img_post1_s2.jpg")
+post2_s2_b64 = get_base64_image("img_post2_s2.jpg")
+post3_s2_b64 = get_base64_image("img_post3_s2.jpg")
+post4_s2_b64 = get_base64_image("img_post4_s2.jpg")
+post5_s2_b64 = get_base64_image("img_post5_s2.jpg")
+post6_s2_b64 = get_base64_image("img_post6_s2.jpg")
+post7_s2_b64 = get_base64_image("img_post7_s2.jpg")
+
 gif3d_b64 = get_base64_image("configuratore3d_web.gif")
 card_real_b64 = get_base64_image("card_proclub_real.jpg")
 shw_b64 = get_base64_image("real_showroom_ciserano.jpg")
@@ -41,6 +49,9 @@ prod_borsa_b64 = get_base64_image("prod_borsa.jpg")
 _extra = {
     'p1': post1_b64, 'p2': post2_b64, 'p3': post3_b64, 'p4': post4_b64,
     'p5': post5_b64, 'p6': post6_b64, 'p7': post7_b64,
+    'p1_s2': post1_s2_b64, 'p2_s2': post2_s2_b64, 'p3_s2': post3_s2_b64,
+    'p4_s2': post4_s2_b64, 'p5_s2': post5_s2_b64, 'p6_s2': post6_s2_b64,
+    'p7_s2': post7_s2_b64,
     'gif3d': gif3d_b64, 'card': card_real_b64, 'shw': shw_b64, 'man': man_b64
 }
 IG_TAB = IG_TAB.replace('__LOGO__', logo_b64)
