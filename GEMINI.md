@@ -21,6 +21,7 @@ Il nostro obiettivo congiunto è digitalizzare la presenza del brand, automatizz
    - Documento strategico: `Piano_Strategico_Social_Instagram_Italsport.md`
    - Feed Instagram realistico e mockup interattivo: `Instagram_Mockup_Italsport.html` (visualizzabile direttamente nel browser con like, swipe caroselli e preview animata 3D).
 2. **Presentazioni Master per il Cliente (Decks):**
+   - **Presentazione Canva (12 slide):** `ITALSPORT_Presentazione_Canva_2026.pdf` e `.pptx` (Edit su Canva: `https://canva.link/coib0zqnu5wfvec`)
    - `ITALSPORT_Presentazione_Master_2026.pdf` (Deck completo per la dirigenza)
    - `Piano_Social_Italsport_2026.pdf` (Piano editoriale e strategia contenuti)
    - `Proposta_Ecosistema_Digitale_Italsport_2026.pdf` (Architettura tecnica e portale B2B)
