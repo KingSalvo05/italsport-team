@@ -1,0 +1,28 @@
+# Credentials and sensitive business documents
+*apikeys*
+*.xlsx
+INV_*.pdf
+a_caso.pdf
+
+# Heavy binary media and archives (avoid repo bloat, share via cloud)
+*.m4a
+*.mp3
+*.wav
+*.zip
+*.tar.gz
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.bak
+
+# Independent deployment repo
+deploy_site/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
